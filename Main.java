@@ -23,8 +23,6 @@ public class Main {
         Triangle assignment4 = new Triangle();
         assignment4.rightTriangle(4);
 
-     // Assignment 5
-         System.out.println("----- ASSIGNMENT 5 -----");
     }
 
 
