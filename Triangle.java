@@ -18,10 +18,13 @@ public class Triangle {
 
     public void rightTriangle(int arg) {
         int number = 1;
-        String answer = new String("");
+        String answer = "";
         for (int i = 0; i < arg; i++) {
             answer += "*";
             System.out.println(answer);
         }
     }
+
+
+
 }

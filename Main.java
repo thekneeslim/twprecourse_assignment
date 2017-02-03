@@ -23,6 +23,24 @@ public class Main {
         Triangle assignment4 = new Triangle();
         assignment4.rightTriangle(4);
 
+    // Assignment 5
+        System.out.println("----- ASSIGNMENT 5 -----");
+        Isoceles assignment5 = new Isoceles();
+        assignment5.isocelesTriangle(4);
+
+    // Assignment 6
+        System.out.println("----- ASSIGNMENT 6 -----");
+        Isoceles assignment6 = new Isoceles();
+        assignment6.diamond(3);
+
+    // Assignment 7
+        System.out.println("----- ASSIGNMENT 7 -----");
+        Isoceles assignment7 = new Isoceles();
+        assignment6.diamondName(3, "Denise");
+    // Assignment 8
+        System.out.println("----- ASSIGNMENT 7 -----");
+        FizzBuzz assignment8 = new FizzBuzz();
+        assignment8.fizzBuzz(100);
     }
 
 
