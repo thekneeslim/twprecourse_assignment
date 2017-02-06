@@ -37,10 +37,16 @@ public class Main {
         System.out.println("----- ASSIGNMENT 7 -----");
         Isoceles assignment7 = new Isoceles();
         assignment6.diamondName(3, "Denise");
+
     // Assignment 8
-        System.out.println("----- ASSIGNMENT 7 -----");
+        System.out.println("----- ASSIGNMENT 8 -----");
         FizzBuzz assignment8 = new FizzBuzz();
         assignment8.fizzBuzz(100);
+
+    // Assignment 9
+        System.out.println("----- ASSIGNMENT 9 -----");
+        Factor assignment9 = new Factor();
+        assignment9.findFactors(30);
     }
 
 
